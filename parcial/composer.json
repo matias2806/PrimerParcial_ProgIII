@@ -1,0 +1,12 @@
+{
+    "name": "admin/pparcial",
+    "authors": [
+        {
+            "name": "matias2806",
+            "email": "matias.palmieri.01@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
